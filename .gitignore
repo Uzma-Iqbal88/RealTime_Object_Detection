@@ -45,8 +45,10 @@ logs/
 *.jpeg
 *.png
 
-# Models (optional - comment out if you want to commit models)
-models/*.pt
+# Models
+*.pt
+*.pth
+*.pkl
 !models/.gitkeep
 
 # Jupyter Notebook
